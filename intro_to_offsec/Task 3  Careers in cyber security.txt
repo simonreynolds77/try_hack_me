@@ -1,0 +1,5 @@
+Task 3  Careers in cyber security
+
+Pen tester - Responsible for finding exploits and weakneesses. 
+Red Teamer - Plays the role of an adversary. 
+Security Engineer - Design, monitor and maintain security controls.
