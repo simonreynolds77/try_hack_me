@@ -1,0 +1,7 @@
+Task 2  What is Offensive Security?
+
+Offsec is the process of breaking into systems that you are not authorised to access. 
+
+Defsec is the process of protecting systems from a hacker. 
+
+To be able to beat a hacker you need to behave/think like a hacker. 
